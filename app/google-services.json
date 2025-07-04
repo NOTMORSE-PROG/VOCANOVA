@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18524340838",
+    "project_id": "voca-nova",
+    "storage_bucket": "voca-nova.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18524340838:android:277a60e1e272d6378d23a7",
+        "android_client_info": {
+          "package_name": "com.example.vocanova"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdLM76CDBOyvxs5e9jMGAurUZ4fRTP2Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
