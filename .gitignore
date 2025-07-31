@@ -1,15 +1,32 @@
+# Ignore IDE files
 *.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
+.idea/
 .DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+
+# Ignore Gradle files
+.gradle/
 local.properties
+
+# Ignore build output
+/build/
+app/build/
+.externalNativeBuild/
+.cxx/
+
+# Ignore captures and generated assets
+/captures/
+
+# Ignore media files
+*.mp4
+*.avi
+*.mov
+
+# Ignore binary artifacts
+*.apk
+*.aab
+*.dex
+*.class
+*.so
+
+# Ignore miscellaneous
+*.log
